@@ -1,0 +1,49 @@
+{
+  "heroes": [
+    {
+      "id": "a09164f0-c63a-47bc-a7fd-3cb3ac9fe14b",
+      "name": "Генка",
+      "description": "ybxtuj",
+      "element": "fire"
+    },
+    {
+      "id": "8af54813-4deb-4500-a308-7b4847c6feed",
+      "name": "света",
+      "description": "готовить кушать убирать танцевать работать ходить ",
+      "element": "fire"
+    },
+    {
+      "id": "0b765a7b-680a-4bb7-a3f8-5c27efa1239f",
+      "name": "Генка",
+      "description": "mmmmmm",
+      "element": "water"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
